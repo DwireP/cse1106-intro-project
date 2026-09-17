@@ -1,4 +1,4 @@
-## Project Title
+# Project Title
 ## Description
 ## Technologies
 ## How to Run
